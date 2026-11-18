@@ -1,0 +1,88 @@
+# Freeze Bros
+
+> Freeze Bros is an online store selling freeze dried fruit and freeze dried lollies, delivered across Australia. Freeze drying removes the water from treats, making them light, crunchy and full of flavour.
+
+## Key facts
+
+- Products: freeze dried fruit (100% fruit, no added sugar) and freeze dried lollies.
+- Pricing: all prices are in AUD and include GST.
+- Shipping: flat rate of $9.95 Australia-wide, free on orders over $60.
+- Orders are packed and sent within 1–2 business days. Delivery takes 2–7 business days after dispatch.
+- Damaged or incorrect orders: report within 14 days for a replacement or refund.
+- Payments: secure checkout by Stripe (major cards, Apple Pay and Google Pay).
+- Contact: hello@freezebros.com.au
+
+## Shop
+
+- [All products](https://www.freezebros.com.au/shop.html): the full range of freeze dried treats.
+- [Freeze dried fruit](https://www.freezebros.com.au/freeze-dried-fruit.html): Real fruit with the water taken out and all the flavour left in. Crunchy, naturally sweet and easy to take anywhere.
+- [Freeze dried lollies](https://www.freezebros.com.au/freeze-dried-lollies.html): Your favourite lollies, puffed up and turned crunchy. Same great taste, totally new texture.
+
+## Products
+
+### Freeze dried fruit
+
+- [Strawberry Slices](https://www.freezebros.com.au/products/strawberry-slices.html): $9.95 AUD, 30g bag. Sweet, tangy and super crunchy.
+- [Mango Chunks](https://www.freezebros.com.au/products/mango-chunks.html): $10.95 AUD, 35g bag. Tropical, tangy and naturally sweet.
+- [Banana Coins](https://www.freezebros.com.au/products/banana-coins.html): $8.95 AUD, 40g bag. Crispy coins of creamy banana.
+- [Crunchy Apple Rings](https://www.freezebros.com.au/products/apple-rings.html): $8.95 AUD, 30g bag. Like chips, but made from apples.
+- [Pineapple Pieces](https://www.freezebros.com.au/products/pineapple-pieces.html): $9.95 AUD, 35g bag. A sweet and zingy tropical crunch.
+- [Mixed Berry Blast](https://www.freezebros.com.au/products/mixed-berry-blast.html): $11.95 AUD, 35g bag. Strawberries, raspberries and blueberries.
+
+### Freeze dried lollies
+
+- [Sour Rainbow Worms](https://www.freezebros.com.au/products/sour-rainbow-worms.html): $11.95 AUD, 60g bag. Puffed up, sour and seriously crunchy.
+- [Gummy Bear Puffs](https://www.freezebros.com.au/products/gummy-bear-puffs.html): $10.95 AUD, 60g bag. Your favourite bears, now light and crispy.
+- [Fizzy Cola Bottles](https://www.freezebros.com.au/products/fizzy-cola-bottles.html): $10.95 AUD, 60g bag. Fizzy cola flavour with a crunchy bite.
+- [Marshmallow Clouds](https://www.freezebros.com.au/products/marshmallow-clouds.html): $9.95 AUD, 40g bag. Light as air and melt in your mouth.
+- [Rainbow Crunch Bites](https://www.freezebros.com.au/products/rainbow-crunch-bites.html): $12.95 AUD, 70g bag. Fruity candy bites that puff and crack.
+- [Sour Watermelon Slices](https://www.freezebros.com.au/products/sour-watermelon-slices.html): $11.95 AUD, 60g bag. Tangy watermelon with a sugary crunch.
+
+## Help and company
+
+- [FAQ](https://www.freezebros.com.au/faq.html): answers about freeze drying, storage, shipping and payments.
+- [Shipping & returns](https://www.freezebros.com.au/shipping-returns.html): delivery times, damaged items and refunds.
+- [About us](https://www.freezebros.com.au/about.html): the Freeze Bros story and how freeze drying works.
+- [Contact](https://www.freezebros.com.au/contact.html): how to reach the team, including wholesale and events.
+
+## Frequently asked questions
+
+### What does freeze dried mean?
+
+Freeze drying is a way of taking the water out of food. We freeze the treats, then place them in a vacuum chamber where the ice turns straight into vapour. This leaves the flavour and shape behind and turns the treat light and crunchy.
+
+### What do freeze dried lollies taste like?
+
+They taste like the lollies you already love, but with a big flavour boost and a brand new texture. Instead of chewy, they are light, airy and crunchy, and they melt in your mouth.
+
+### Does your freeze dried fruit have added sugar?
+
+No. Our freeze dried fruit is made from 100% fruit with nothing added. The sweetness comes from the fruit itself.
+
+### Are your products suitable for people with allergies?
+
+Ingredients and allergen information are printed on every pack. If you have an allergy, please read the label before eating, or contact us and we will be happy to help.
+
+### How long do freeze dried treats last?
+
+Unopened packs stay fresh for many months. Check the best before date on the pack. Once opened, enjoy them within a few days for the best crunch.
+
+### How should I store them?
+
+Keep them in a cool, dry place away from sunlight. Reseal the bag tightly after opening, because moisture in the air can make them lose their crunch.
+
+### How much is shipping?
+
+Shipping is a flat $9.95 Australia-wide, and it is free on orders over $60.
+
+### How long will my order take to arrive?
+
+We pack and send orders within 1–2 business days. Delivery usually takes 2–7 business days after that, depending on where you live.
+
+### How can I pay?
+
+Checkout is handled securely by Stripe. You can pay with all major credit and debit cards, plus Apple Pay and Google Pay on supported devices.
+
+### What if my order arrives damaged?
+
+Sorry about that! Email us at hello@freezebros.com.au within 14 days with a photo of the damage, and we will send a replacement or a refund.
