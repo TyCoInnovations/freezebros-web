@@ -7,6 +7,7 @@ import { useCart } from "@/components/cart/cart-provider";
 import { CartLineItem } from "@/components/cart/cart-line-item";
 import { CartSummary, FreeShippingProgress } from "@/components/cart/cart-summary";
 import { BagIcon, CheckIcon, CloseIcon } from "@/components/ui/icons";
+import { rememberScrollbarWidth } from "@/lib/scroll-lock";
 
 /**
  * The slide-out mini cart. Built on the native <dialog> element, which gives us
@@ -25,7 +26,10 @@ export function CartDrawer({ demoMode }: { demoMode: boolean }) {
   useEffect(() => {
     const dialog = dialogRef.current;
     if (!dialog) return;
-    if (isDrawerOpen && !dialog.open) dialog.showModal();
+    if (isDrawerOpen && !dialog.open) {
+      rememberScrollbarWidth();
+      dialog.showModal();
+    }
     if (!isDrawerOpen && dialog.open) dialog.close();
   }, [isDrawerOpen]);
 

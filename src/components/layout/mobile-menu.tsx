@@ -7,6 +7,7 @@ import { MobileNavLinks } from "@/components/layout/nav-links";
 import { CloseIcon, MenuIcon, TruckIcon } from "@/components/ui/icons";
 import { siteConfig } from "@/config/site";
 import { formatPriceShort } from "@/lib/money";
+import { rememberScrollbarWidth } from "@/lib/scroll-lock";
 
 const secondaryLinks = [
   { href: "/shipping-returns", label: "Shipping & returns" },
@@ -23,7 +24,10 @@ export function MobileMenu() {
   useEffect(() => {
     const dialog = dialogRef.current;
     if (!dialog) return;
-    if (open && !dialog.open) dialog.showModal();
+    if (open && !dialog.open) {
+      rememberScrollbarWidth();
+      dialog.showModal();
+    }
     if (!open && dialog.open) dialog.close();
   }, [open]);
 

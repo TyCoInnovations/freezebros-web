@@ -72,14 +72,18 @@
 @layer base {
   html {
     scroll-behavior: smooth;
-    scrollbar-gutter: stable;
     -webkit-text-size-adjust: 100%;
     text-size-adjust: 100%;
   }
 
-  /* Stop the page scrolling behind the cart drawer or mobile menu. */
+  /*
+   * Stop the page scrolling behind the cart drawer or mobile menu. The padding
+   * replaces the hidden scrollbar's width (see lib/scroll-lock.ts) so the page
+   * doesn't shift.
+   */
   html:has(dialog[open]) {
     overflow: hidden;
+    padding-right: var(--scrollbar-width, 0px);
   }
 
   body {
